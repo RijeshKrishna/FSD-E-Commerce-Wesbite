@@ -22,13 +22,14 @@ This project demonstrates a basic e-commerce setup with essential features, maki
 
 **Home Page**
 
-![image](https://github.com/user-attachments/assets/1eb6857b-9345-4b8e-8ce1-00228ce8980d)
+![image](https://github.com/user-attachments/assets/0730eb8b-c39b-400e-bea5-c806769556bb)
+
 
 **Search Bar**
 
-![image](https://github.com/user-attachments/assets/d5d4ebcc-5845-40e2-be0d-92023b586ac1)
+![image](https://github.com/user-attachments/assets/af1703dc-bb2e-40ad-9b3f-315d104dbeab)
+
 
 **Checkout Page**
 
-![image](https://github.com/user-attachments/assets/7f5fef90-b6fc-4e1b-b44e-11b08b5be5bf)
-
+![image](https://github.com/user-attachments/assets/65ce8dbe-d8ce-4b84-af7a-572e3a77dcb7)
